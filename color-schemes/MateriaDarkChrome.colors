@@ -104,16 +104,16 @@ ForegroundVisited=173,101,175
 
 [General]
 ColorScheme=MateriaDark
-Name=Materia Dark
+Name=Materia Dark Chrome
 shadeSortColumn=true
 
 [KDE]
 contrast=4
 
 [WM]
-activeBackground=39,39,39
-activeBlend=39,39,39
+activeBackground=32,33,36
+activeBlend=32,33,36
 activeForeground=223,223,223
-inactiveBackground=30,30,30
-inactiveBlend=30,30,30
+inactiveBackground=60,64,67
+inactiveBlend=60,64,67
 inactiveForeground=139,139,139

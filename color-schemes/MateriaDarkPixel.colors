@@ -89,8 +89,8 @@ ForegroundPositive=76,175,80
 ForegroundVisited=173,101,175
 
 [Colors:Window]
-BackgroundAlternate=24,24,24
-BackgroundNormal=18,18,18
+BackgroundAlternate=30,30,30
+BackgroundNormal=39,39,39
 DecorationFocus=73,83,99
 DecorationHover=73,83,99
 ForegroundActive=61,174,233
@@ -104,7 +104,7 @@ ForegroundVisited=173,101,175
 
 [General]
 ColorScheme=MateriaDark
-Name=Materia Dark
+Name=Materia Dark Pixel
 shadeSortColumn=true
 
 [KDE]
